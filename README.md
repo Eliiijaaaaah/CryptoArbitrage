@@ -4,4 +4,4 @@ This is a program written in C (for a class project), that pulls crypto data fro
 # Dependencies
 curl libcurl library for C HTTP
 
-json-s library for handling JSON in C
+json-c library for handling JSON in C
